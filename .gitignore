@@ -1,4 +1,10 @@
-.env
+# build
+dist/
+
+# non-essential
 node_modules
 package-lock.json
 pnpm-lock.yaml
+
+# ENV files
+.env
